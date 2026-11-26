@@ -6,7 +6,7 @@
 		"PriceMultiplier": 5,
 		"ItemsToSell": 5,
 		"MinPricePerItem": 2000,
-		"MaxPricePerItem": 50000,
+		"MaxPricePerItem": 0,
 		"ExcludedItems": [
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C",
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt",
