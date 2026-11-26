@@ -19,16 +19,16 @@
 		"MarketDisabled": false,
 		"RestockOnSale": true,
 		"PriceMultiplier": 5.0,
-		"ItemsToSell": 2,
+		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": []
     },
     "CreatureMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": false,
+		"RestockOnSale": true,
 		"PriceMultiplier": 3.0,
-		"ItemsToSell": 2,
+		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
 		"MaxPricePerItem": 1000000,
 		"ExcludedDinos": [
@@ -42,12 +42,12 @@
 		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
-		"MarketDisabled": true,
-		"RestockOnSale": false,
+		"MarketDisabled": false,
+		"RestockOnSale": true,
 		"PriceMultiplier": 3.0,
-		"ItemsToSell": 5,
+		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 300000,
+		"MaxPricePerItem": 0,
 		"ExcludedItems": [
 		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion",
 		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S",
