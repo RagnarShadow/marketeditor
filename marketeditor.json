@@ -27,7 +27,7 @@
     "CreatureMerchant": {
 		"MarketDisabled": false,
 		"RestockOnSale": true,
-		"PriceMultiplier": 3.0,
+		"PriceMultiplier": 0.1,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
 		"MaxPricePerItem": 500000,
