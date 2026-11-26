@@ -3,9 +3,9 @@
     "ArmorMerchant": {
 		"MarketDisabled": false,
 		"RestockOnSale": true,
-		"PriceMultiplier": 5.0,
+		"PriceMultiplier": 2.5,
 		"ItemsToSell": 10,
-		"MinPricePerItem": 2000,
+		"MinPricePerItem": 5000,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C",
@@ -18,10 +18,10 @@
     "WeaponMerchant": {
 		"MarketDisabled": false,
 		"RestockOnSale": true,
-		"PriceMultiplier": 5.0,
+		"PriceMultiplier": 5,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 0,
+		"MaxPricePerItem": 500000,
 		"ExcludedItems": []
     },
     "CreatureMerchant": {
@@ -30,7 +30,7 @@
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 0,
+		"MaxPricePerItem": 500000,
 		"ExcludedDinos": [
 		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
 		"/Game/Genesis/Dinos/BiomeVariants/Ocean_Helicoprion/Ocean_Helicoprion_Character_BP.Ocean_Helicoprion_Character_BP_C",
@@ -47,7 +47,7 @@
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 0,
+		"MaxPricePerItem": 300000,
 		"ExcludedItems": [
 		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
 		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
