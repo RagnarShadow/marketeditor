@@ -25,7 +25,7 @@
 		"ExcludedItems": []
     },
     "CreatureMerchant": {
-		"MarketDisabled": true,
+		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 2,
