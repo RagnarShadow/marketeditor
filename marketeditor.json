@@ -38,7 +38,7 @@
 		"/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
 		"/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C"
 		],
-		"MinDinoLevelMulti": 0.5,
+		"MinDinoLevelMulti": 0,
 		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
