@@ -30,7 +30,7 @@
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 1000000,
+		"MaxPricePerItem": 0,
 		"ExcludedDinos": [
 		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
 		"/Game/Genesis/Dinos/BiomeVariants/Ocean_Helicoprion/Ocean_Helicoprion_Character_BP.Ocean_Helicoprion_Character_BP_C",
