@@ -33,7 +33,7 @@
 		"MaxPricePerItem": 500000,
 		"ExcludedDinos": [],
 		"MinDinoLevelMulti": 0,
-		"MaxDinoLevelMulti": 1.0
+		"MaxDinoLevelMulti": 0
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
