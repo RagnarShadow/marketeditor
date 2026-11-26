@@ -21,7 +21,7 @@
 		"PriceMultiplier": 5.0,
 		"ItemsToSell": 2,
 		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 500000,
+		"MaxPricePerItem": 0,
 		"ExcludedItems": []
     },
     "CreatureMerchant": {
