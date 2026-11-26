@@ -9,10 +9,10 @@
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C",
-		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt",
-		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet",
-		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants",
-		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves"
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves_C"
 	  ]
     },
     "WeaponMerchant": {
@@ -32,11 +32,11 @@
 		"MinPricePerItem": 50000,
 		"MaxPricePerItem": 1000000,
 		"ExcludedDinos": [
-		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP",
-		"/Game/Genesis/Dinos/BiomeVariants/Ocean_Helicoprion/Ocean_Helicoprion_Character_BP.Ocean_Helicoprion_Character_BP",
-		"/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP",
-		"/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP",
-		"/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP"
+		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+		"/Game/Genesis/Dinos/BiomeVariants/Ocean_Helicoprion/Ocean_Helicoprion_Character_BP.Ocean_Helicoprion_Character_BP_C",
+		"/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP_C",
+		"/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+		"/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C"
 		],
 		"MinDinoLevelMulti": 0.5,
 		"MaxDinoLevelMulti": 1.0
@@ -49,9 +49,9 @@
 		"MinPricePerItem": 50000,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
-		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion",
-		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S",
-		"/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle"
+		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
+		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
+		"/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle_C"
 		]
     },
     "GlobalTimeForScan": 30.0
