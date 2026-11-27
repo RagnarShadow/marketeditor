@@ -52,6 +52,6 @@
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C"
 		]
     },
-    "GlobalTimeForScan": 240.0
+    "GlobalTimeForScan": 300.0
   }
 }
