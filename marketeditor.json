@@ -4,7 +4,7 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 5,
+		"ItemsToSell": 4,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
@@ -58,6 +58,6 @@
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C"
 		]
     },
-    "GlobalTimeForScan": 0.0
+    "GlobalTimeForScan": 90.0
 	}
 }
