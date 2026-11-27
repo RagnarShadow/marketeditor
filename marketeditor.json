@@ -3,7 +3,7 @@
     "ArmorMerchant": {
 		"MarketDisabled": false,
 		"RestockOnSale": true,
-		"PriceMultiplier": 2.5,
+		"PriceMultiplier": 1.5,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
 		"MaxPricePerItem": 0,
@@ -43,7 +43,7 @@
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 300000,
+		"MaxPricePerItem": 500000,
 		"ExcludedItems": [
 		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
 		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
