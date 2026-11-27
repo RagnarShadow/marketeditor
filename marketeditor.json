@@ -24,19 +24,6 @@
 		"MaxPricePerItem": 0,
 		"ExcludedItems": []
     },
-    "CreatureMerchant": {
-		"MarketDisabled": false,
-		"RestockOnSale": false,
-		"PriceMultiplier": 0.1,
-		"ItemsToSell": 10,
-		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 0,
-		"ExcludedDinos": [
-		"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
-		],
-		"MinDinoLevelMulti": 0,
-		"MaxDinoLevelMulti": 1.0
-    },
     "SaddleMerchant": {
 		"MarketDisabled": false,
 		"RestockOnSale": false,
@@ -54,6 +41,6 @@
 		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C"
 		]
     },
-    "GlobalTimeForScan": 2.0
+    "GlobalTimeForScan": 30.0
   }
 }
