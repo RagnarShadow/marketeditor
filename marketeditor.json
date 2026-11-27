@@ -29,11 +29,13 @@
 		"RestockOnSale": true,
 		"PriceMultiplier": 0.1,
 		"ItemsToSell": 10,
-		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 500000,
-		"ExcludedDinos": [],
-		"MinDinoLevelMulti": 0,
-		"MaxDinoLevelMulti": 0
+		"MinPricePerItem": 1000,
+		"MaxPricePerItem": 2000,
+		"ExcludedDinos": [
+		"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
+		],
+		"MinDinoLevelMulti": 0.999, //min range 0=disabled/vanilla | 0 is representing the min level a dino will spawn naturally. 1 is the max level.
+		"MaxDinoLevelMulti": 1.0	//max Dino level Range 0=disabled/vanilla
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
