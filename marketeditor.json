@@ -1,47 +1,57 @@
 {
   "Settings": {
     "ArmorMerchant": {
-		"MarketDisabled": false, //true will destroy the market
-		"RestockOnSale": true,  //on true will restock the market when all items are sold
-		"PriceMultiplier": 0.1, // overall price multiplier for this market / 0=disabled
-		"ItemsToSell": 25, //amount of orders a market is doing at onced / 0=disabled
-		"MinPricePerItem": 10, //min price per item / 0=disabled
-		"MaxPricePerItem": 500, //max prive per item / 0=disabled
-		"ExcludedItems": [ //exluded items 
-		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C"
+		"MarketDisabled": false,
+		"RestockOnSale": false,
+		"PriceMultiplier": 2.5,
+		"ItemsToSell": 5,
+		"MinPricePerItem": 0,
+		"MaxPricePerItem": 0,
+		"ExcludedItems": [
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves_C"
 	  ]
     },
     "WeaponMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
-		"PriceMultiplier": 5.0,
+		"RestockOnSale": false,
+		"PriceMultiplier": 2.5,
 		"ItemsToSell": 2,
-		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 500000,
+		"MinPricePerItem": 0,
+		"MaxPricePerItem": 0,
 		"ExcludedItems": []
     },
-    "CreatureMerchant": {
+	"CreatureMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
+		"RestockOnSale": false,
 		"PriceMultiplier": 0.1,
-		"ItemsToSell": 2,
-		"MinPricePerItem": 1000,
-		"MaxPricePerItem": 2000,
-		"ExcludedDinos": [ //exluded dinos 
-		"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
-		],
-		"MinDinoLevelMulti": 0.999, //min range 0=disabled/vanilla | 0 is representing the min level a dino will spawn naturally. 1 is the max level.
-		"MaxDinoLevelMulti": 1.0	//max Dino level Range 0=disabled/vanilla
+		"ItemsToSell": 10,
+		"MinPricePerItem": 0,
+		"MaxPricePerItem": 0,
+		"ExcludedDinos": [],
+		"MinDinoLevelMulti": 0.999,
+		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
+		"RestockOnSale": false,
 		"PriceMultiplier": 3.0,
-		"ItemsToSell": 12,
-		"MinPricePerItem": 50000,
-		"MaxPricePerItem": 300000,
-		"ExcludedItems": []
+		"ItemsToSell": 2,
+		"MinPricePerItem": 0,
+		"MaxPricePerItem": 0,
+		"ExcludedItems": [
+		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
+		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
+		"/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle.PrimalItemArmor_MosaSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C"
+		]
     },
-    "GlobalTimeForScan": 30.0 // global timer for scanning new markets
+    "GlobalTimeForScan": 90.0
   }
 }
