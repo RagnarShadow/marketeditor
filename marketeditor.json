@@ -4,7 +4,7 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 3,
+		"ItemsToSell": 5,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
@@ -19,7 +19,7 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 3,
+		"ItemsToSell": 2,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": []
