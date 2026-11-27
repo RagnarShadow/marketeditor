@@ -2,8 +2,8 @@
   "Settings": {
     "ArmorMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
-		"PriceMultiplier": 1.5,
+		"RestockOnSale": false,
+		"PriceMultiplier": 2.5,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
 		"MaxPricePerItem": 0,
@@ -17,29 +17,29 @@
     },
     "WeaponMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
-		"PriceMultiplier": 5,
+		"RestockOnSale": false,
+		"PriceMultiplier": 2.5,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 5000,
-		"MaxPricePerItem": 500000,
+		"MaxPricePerItem": 0,
 		"ExcludedItems": []
     },
     "CreatureMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
+		"RestockOnSale": false,
 		"PriceMultiplier": 0.1,
 		"ItemsToSell": 10,
-		"MinPricePerItem": 1000,
-		"MaxPricePerItem": 2000,
+		"MinPricePerItem": 50000,
+		"MaxPricePerItem": 0,
 		"ExcludedDinos": [
 		"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
 		],
-		"MinDinoLevelMulti": 0.999,
+		"MinDinoLevelMulti": 0,
 		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
-		"RestockOnSale": true,
+		"RestockOnSale": false,
 		"PriceMultiplier": 3.0,
 		"ItemsToSell": 10,
 		"MinPricePerItem": 50000,
