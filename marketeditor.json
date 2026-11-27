@@ -4,7 +4,7 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 5,
+		"ItemsToSell": 3,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": [
@@ -19,7 +19,7 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 2,
+		"ItemsToSell": 3,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": []
@@ -28,11 +28,11 @@
 		"MarketDisabled": true,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 10,
+		"ItemsToSell": 2,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedDinos": [],
-		"MinDinoLevelMulti": 0.999,
+		"MinDinoLevelMulti": 0,
 		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
