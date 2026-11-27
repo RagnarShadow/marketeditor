@@ -19,10 +19,21 @@
 		"MarketDisabled": false,
 		"RestockOnSale": false,
 		"PriceMultiplier": 2.5,
-		"ItemsToSell": 5,
+		"ItemsToSell": 2,
 		"MinPricePerItem": 0,
 		"MaxPricePerItem": 0,
 		"ExcludedItems": []
+    },
+	"CreatureMerchant": {
+		"MarketDisabled": false,
+		"RestockOnSale": false,
+		"PriceMultiplier": 0.1,
+		"ItemsToSell": 10,
+		"MinPricePerItem": 0,
+		"MaxPricePerItem": 0,
+		"ExcludedDinos": [],
+		"MinDinoLevelMulti": 0.999,
+		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
