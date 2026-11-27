@@ -47,7 +47,11 @@
 		"ExcludedItems": [
 		"/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
 		"/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
-		"/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle_C"
+		"/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle.PrimalItemArmor_MosaSaddle_C",
+		"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C"
 		]
     },
     "GlobalTimeForScan": 2.0
