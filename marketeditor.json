@@ -34,8 +34,8 @@
 		"ExcludedDinos": [
 		"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
 		],
-		"MinDinoLevelMulti": 0.999, //min range 0=disabled/vanilla | 0 is representing the min level a dino will spawn naturally. 1 is the max level.
-		"MaxDinoLevelMulti": 1.0	//max Dino level Range 0=disabled/vanilla
+		"MinDinoLevelMulti": 0.999,
+		"MaxDinoLevelMulti": 1.0
     },
     "SaddleMerchant": {
 		"MarketDisabled": false,
